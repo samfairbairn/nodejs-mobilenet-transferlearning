@@ -6,7 +6,7 @@ Clone of [https://github.com/adwellj/node-tfjs-retrain](https://github.com/adwel
 
 ## Save Model Locally
 
-Save a model locally matching the model defined in [model.js](model.js#10)
+Save a model locally matching the model defined in [model.js](model.js#L10)
 
 Save JSON file [mobilenet_v1_0.25_224/model.json](https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_0.25_224/model.json)
 
